@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224300767185",
+    "project_id": "lvprimjer",
+    "storage_bucket": "lvprimjer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224300767185:android:e212aecb5f16bd533532f0",
+        "android_client_info": {
+          "package_name": "hr.ferit.autentikacija"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0phUXgqmJ33JfekpGSSlMbJC9ZDqXygU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224300767185:android:3d01ec21baab632c3532f0",
+        "android_client_info": {
+          "package_name": "rma.lv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0phUXgqmJ33JfekpGSSlMbJC9ZDqXygU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
